@@ -1,8 +1,8 @@
 # The Internet in One Word
 
 [![The Internet in One Word](https://make.fun/badge/u-ronigrv-the-internet-in-one-word-e388f33b.svg)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b)
-[![Rank](https://make.fun/badge/u-ronigrv-the-internet-in-one-word-e388f33b/maelaozera/rank.svg)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b)
-[![Reward](https://make.fun/badge/u-ronigrv-the-internet-in-one-word-e388f33b/maelaozera/reward.svg)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b)
+[![Rank](https://make.fun/badge/u-ronigrv-the-internet-in-one-word-e388f33b/maelaozera/u-ronigrv-the-internet-in-one-word-e388f33b/rank.svg)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b)
+[![Reward](https://make.fun/badge/u-ronigrv-the-internet-in-one-word-e388f33b/maelaozera/u-ronigrv-the-internet-in-one-word-e388f33b/reward.svg)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b)
 
 ## The word
 
